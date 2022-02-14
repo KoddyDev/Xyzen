@@ -1,0 +1,21 @@
+{
+  "name": "invite",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": {
+    "name": "KoddyDev",
+    "email": "koddydev@gmail.com",
+    "url": "https://github.com/koddydev"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@prisma/client": "^3.9.2",
+    "@types/glob": "^7.2.0",
+    "discord-modal": "^1.0.2",
+    "discord.js": "^13.6.0",
+    "glob": "^7.2.0",
+    "prisma": "^3.9.2",
+    "sequelize": "^6.16.1",
+    "sqlite3": "^5.0.2"
+  }
+}
