@@ -169,4 +169,4 @@ client.on("inviteDelete", (invite) => {
   })
 
 
-client.login("ODUzMDA1MjAxMzAwMzg5OTE4.YMPFAA.08y-XPj46PUMb-TWGb6zfuTtUec")
+client.login("Token")
